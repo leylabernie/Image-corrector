@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pillow
+requests
+pydantic
+easyocr
+torch
+opencv-python
+numpy
+lama-cleaner==0.29.0
